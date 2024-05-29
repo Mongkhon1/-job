@@ -1,0 +1,16 @@
+*{
+    display: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    display: grid;
+    align-items: center;
+    padding-top: 20px;
+    height: 750px;
+}
+
+.name{
+    text-align: center;
+}
